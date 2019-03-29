@@ -1,6 +1,6 @@
 [
-{"filename":"index.php","url":"http://localhost/sources/index.txt","update":true},
-{"filename":"readme.php","url":"http://localhost/sources/readme.txt","update":true}
+{"filename":"index.php","url":"https://raw.githubusercontent.com/qaesz/json/master/index.txt","update":true},
+{"filename":"readme.php","url":"https://raw.githubusercontent.com/qaesz/json/master/readme.txt","update":true}
 
 
 ]
